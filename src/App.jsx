@@ -14,7 +14,7 @@ function App() {
 
       <h3>React core concept part 2</h3>
 
-      {/* <Team></Team> */}
+      <Team></Team>
       <Counter></Counter>
 
       <button onClick={handleClick}>Click me</button>
